@@ -1,0 +1,8 @@
+plyfile
+opencv-python
+requests
+timm
+matplotlib
+tqdm
+torchmetrics
+torchmetrics[image]

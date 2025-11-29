@@ -6,3 +6,7 @@ diff_rasterization/diff_rast.egg-info
 diff_rasterization/dist
 tensorboard_3d
 screenshots
+outputs_4x
+outputs_8x
+models
+cmmd-pytorch
