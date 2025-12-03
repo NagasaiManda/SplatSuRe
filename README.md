@@ -1,7 +1,7 @@
 # SplatSuRe: Selective Super-Resolution for Multi-view Consistent 3D Gaussian Splatting
 [Pranav Asthana](https://pranav-asthana.github.io/), [Alex Hanson](https://www.cs.umd.edu/~hanson/), [Allen Tu](https://tuallen.github.io/), [Tom Goldstein](https://www.cs.umd.edu/~tomg/), [Matthias Zwicker](https://www.cs.umd.edu/~zwicker/), [Amitabh Varshney](https://www.cs.umd.edu/~varshney/)<br>
 University of Maryland, College Park<br>
-[Webpage](https://splatsure.github.io) | [arXiv]() | [StableSR outputs(T&T, DB, MipNerf360)](https://drive.google.com/drive/folders/1mhEKcvJtxhPCrsTveRFbEkTSqerJyjvb) | [COLMAP(T&T)](https://drive.google.com/drive/folders/1iNMynWtvRg1N--YyqpB1HaPkt-kURj04)<br>
+[Webpage](https://splatsure.github.io) | [arXiv](https://arxiv.org/abs/2512.02172) | [StableSR outputs(T&T, DB, MipNerf360)](https://drive.google.com/drive/folders/1mhEKcvJtxhPCrsTveRFbEkTSqerJyjvb) | [COLMAP(T&T)](https://drive.google.com/drive/folders/1iNMynWtvRg1N--YyqpB1HaPkt-kURj04)<br>
 <br>
 ![Teaser image](assets/teaser.png)
 
@@ -126,7 +126,7 @@ The metrics are stored in the output directory, with SSIM, PSNR, LPIPS and FID i
     <pre><code>@article{Asthana2025SplatSuRe,
     author    = {Asthana, Pranav and Hanson, Alex and Tu, Allen and Goldstein, Tom and Zwicker, Matthias and Varshney, Amitabh},
     title     = {SplatSuRe: Selective Super-Resolution for Multi-view Consistent 3D Gaussian Splatting},
-    journal   = {Preprint},
+    journal   = {arXiv preprint arXiv:2512.02172},
     year      = {2025},
     url       = {https://splatsure.github.io/}
 }</code></pre>
